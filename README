@@ -10,6 +10,7 @@ have to perform the tedious task of refreshing the browser to view the changes.
 Command:
 node reload_browser.js -b <browser> -d <directory to watch> -a <application url>
 
+Foo:
 -b <browser> The browser to reload. Defaults to 'firefox'
 -a <application URL> The url of the application to reload the browser.
 -d <directory> The directory to watch for changes.
